@@ -2,7 +2,7 @@
 Game(Rock-Paper-Scissors)
 
 
-explain:
+Explain:
 
 1. Download the starter code
 Click here to download the starter code.
